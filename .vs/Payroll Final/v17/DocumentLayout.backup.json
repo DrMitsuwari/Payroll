@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elija\\source\\repos\\Payroll Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|c:\\users\\elija\\source\\repos\\payroll final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|c:\\users\\elija\\source\\repos\\payroll final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "Payroll Final\\Form1.vb",
               "ViewState": "AgIAAAQAAAAAAAAAAAAnwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-23T19:40:35.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T19:40:35.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Payroll(Input).vb",
               "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Payroll(Input).vb",
               "RelativeDocumentMoniker": "Payroll Final\\Payroll(Input).vb",
               "ToolTip": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Payroll(Input).vb",
               "RelativeToolTip": "Payroll Final\\Payroll(Input).vb",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAnwMEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAewIQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-23T18:36:06.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Payroll(Input).vb [Design]",
               "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Payroll(Input).vb",
               "RelativeDocumentMoniker": "Payroll Final\\Payroll(Input).vb",
@@ -68,15 +67,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Form1.vb",
               "RelativeDocumentMoniker": "Payroll Final\\Form1.vb",
               "ToolTip": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Form1.vb [Design]",
               "RelativeToolTip": "Payroll Final\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-23T04:04:56.04Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-23T04:04:56.04Z"
             }
           ]
         }

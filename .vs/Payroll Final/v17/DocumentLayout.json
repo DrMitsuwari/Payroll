@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\elija\\source\\repos\\Payroll Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|c:\\users\\elija\\source\\repos\\payroll final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|c:\\users\\elija\\source\\repos\\payroll final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|C:\\Users\\elija\\source\\repos\\Payroll Final\\payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D1269594-BE52-4A16-9308-22AE61CE6A8D}|Payroll Final\\Payroll Final.vbproj|solutionrelative:payroll final\\payroll(input).vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Payroll Final\\Payroll(Input).vb",
               "ToolTip": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Payroll(Input).vb",
               "RelativeToolTip": "Payroll Final\\Payroll(Input).vb",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAewIQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-23T18:36:06.414Z",
               "EditorCaption": ""
@@ -62,8 +62,7 @@
               "ToolTip": "C:\\Users\\elija\\source\\repos\\Payroll Final\\Payroll Final\\Payroll(Input).vb [Design]",
               "RelativeToolTip": "Payroll Final\\Payroll(Input).vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-23T05:15:18.824Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-23T05:15:18.824Z"
             },
             {
               "$type": "Document",
